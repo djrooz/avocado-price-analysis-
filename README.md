@@ -2,7 +2,7 @@
 Exploratory data analysis of avocado prices using window functions and interactive visualizations.
 
 Avocado Price Analysis  
-This project was completed as part of the “More Pandas” course on Karpov.courses.
+This project was completed as part of course on Karpov.courses.
 
 📌 Project Goal  
 To analyze average avocado prices across regions and time, apply window functions, and build interactive visualizations for price dynamics.
